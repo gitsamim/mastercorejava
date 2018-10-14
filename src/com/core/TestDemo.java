@@ -13,6 +13,11 @@ public class TestDemo {
 		//System.out.println("Aded by samim 13oct2018!!!");
 		
 		System.out.println("Aded by samim 14oct2018!!!");
+		
+		int a,b,c;
+		
+		c=a+b;
+		System.out.println("Sum Value : " + c);
 
 	}
 
